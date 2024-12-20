@@ -1,0 +1,57 @@
+name: jayson.pfeffer
+description: Visionary
+version: 0.0.1
+author: y4gozo7x.nuw3w13d@om8rqgqi.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: jaysonpfeffer
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-20 20:30:55'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-20 20:30:55'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-20T20:30:55.303767Z'
+  name: plibMaven
+  version: 8.8.0-SNAPSHOT
+  id: '897616832'
+  createdAt: '2024-12-20T20:30:55.303767Z'
+  type: plibMaven
+projectDependencies:
+  '223':
+    projectUID: 223
+    projectName: zelda.goldner
+    repositoryPath: gitUri=http://gitserver:3000/dev_YJmKDM3T_team_369/dev_YJmKDM3T_project_223.git&subPath=
+    version: zelda.goldner/0.65.579
+    isDefault: false
+    author: null
+    createdAt: '2024-12-20 20:30:54'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
